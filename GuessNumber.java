@@ -1,4 +1,4 @@
-package Lec05_Loop;
+package Lec06_Loop;
 
 import java.util.*;
 
